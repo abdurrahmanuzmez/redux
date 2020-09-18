@@ -1,5 +1,6 @@
 import * as React from 'react';
 import {View, ScrollView} from 'react-native'
+import {connect} from 'react-redux';
 
 import {Header, SearchInput} from '../../components'
 import PlayerObject from "./PlayerObject";
@@ -47,4 +48,8 @@ class Home extends React.Component{
     }
 }
 
-export default Home;
+const stateToProps = (state) => {
+    return{};
+};
+
+export default connect(stateToProps(Home));
