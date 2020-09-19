@@ -1,4 +1,4 @@
-##Building Redux with React Native App
+## Building Redux with React Native App
 
 I am building this app for learning react native prop types and Redux. 
 <br />
@@ -8,11 +8,11 @@ You can see their status(available, not available). You can invite them your gam
 <br/> 
 Thanks to Yaman KATBY.
 
-##Expo
+## Expo
 
 Expo was helpful to see result on my device.
 
-##Redux
+## Redux
 
 It is a little bit complicated but I am learning for now.
 
